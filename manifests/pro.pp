@@ -6,7 +6,7 @@
 class omnigraffle::pro {
   package { 'OmniGraffle Pro':
     provider => 'appdmg_eula',
-    source   => 'http://www.omnigroup.com/ftp1/pub/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg'
+    source   => 'http://downloads.omnigroup.com/software/MacOSX/10.10/OmniGraffle-6.5.2.dmg'
   }
 }
 
